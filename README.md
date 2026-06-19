@@ -40,7 +40,7 @@
 ## 🌱 Learning Journey
 
 * 🌿 Strengthening Java & Python skills
-* 🧩 Solving LeetCode problems regularly
+* 🧩 Solving DSA problems regularly
 * 🤖 Exploring AI/ML and Computer Vision
 * 🚀 Building real-world projects
 
