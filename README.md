@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm M. Preety Devi
 
-<!--
-**preety-m/preety-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 AIML Student | Software Engineering Enthusiast | AI/ML Learner
 
-Here are some ideas to get you started:
+🚀 Building projects with Python, Java, and Web Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+* Sketch-to-Code
+* Space Mission Archive
+* Student Management System
+* Ecommerce Website
+
+---
+
+## 💼 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+---
+
+## 🧠 Learning Now
+
+* Data Structures & Algorithms
+* Web Development
+* Machine Learning Basics
+* DBMS, OS and OOP Concepts
+
+---
+
+## 🌱 Learning Journey
+
+* 🌿 Strengthening Java & Python skills
+* 🧩 Solving LeetCode problems regularly
+* 🤖 Exploring AI/ML and Computer Vision
+* 🚀 Building real-world projects
+
+---
+
+## 🌐 Socials
+
+[LinkedIn](https://www.linkedin.com/in/preety-m/) • [LeetCode](https://leetcode.com/u/Preety_m/)
+
+📧 [preetydevim2004@gmail.com](mailto:preetydevim2004@gmail.com)
