@@ -33,7 +33,7 @@
 * Data Structures & Algorithms
 * Web Development
 * Python for AI/ML
-* DBMS, OS and OOP Concepts
+* DBMS, OS and OOPS Concepts
 
 ---
 
