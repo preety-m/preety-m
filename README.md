@@ -32,7 +32,7 @@
 
 * Data Structures & Algorithms
 * Web Development
-* Machine Learning Basics
+* Python for AI/ML
 * DBMS, OS and OOP Concepts
 
 ---
@@ -40,7 +40,7 @@
 ## 🌱 Learning Journey
 
 * 🌿 Strengthening Java & Python skills
-* 🧩 Solving DSA problems regularly
+* 🧩 Solving Leetcode problems regularly
 * 🤖 Exploring AI/ML and Computer Vision
 * 🚀 Building real-world projects
 
